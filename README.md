@@ -10,3 +10,5 @@ The project includes:
 *Performance Assessment:* Evaluation of model performance through various key performance indicators (KPIs), ensuring effective generalization and robustness of the trained CNN models.
 #
 Feel free to check the whole cource here: https://www.coursera.org/projects/facial-key-point-detection
+#
+The data can be downloaded from the google drive link: https://drive.google.com/file/d/1jC6Y6z4vyt1QSqyZki5F4i7JJJNhsDJK/view?usp=sharing
